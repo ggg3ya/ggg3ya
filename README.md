@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://twitter.com/0x000123">
+  <a href="https://twitter.com/gilangyuwanda">
     <img src="https://img.shields.io/badge/Follow-%400x000123-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow">
   </a>
   <a href="https://t.me/alphasearcher">
